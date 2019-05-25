@@ -2,7 +2,7 @@ class Studioutils < Formula
     desc "A shell script with utilities for TIBCO StreamBase Studio developers."
     homepage "https://github.com/gunarvae/studioutils"
     url "https://github.com/gunarvae/studioutils/archive/v1.0.0.tar.gz"
-    sha256 "0d343abe37cc4ac200679002fc8a6dee5d30d9eb2150196d74e6c706c25be9bf"
+    sha256 "2186281f8115ad3970c75f0c5cd35fbe536f03124f48a3ed9f86474b57e078d6"
     version "1.0.0"
 
     bottle :unneeded
