@@ -8,6 +8,6 @@ class Studioutils < Formula
     bottle :unneeded
 
     def install
-        bin.install "scripts/studioutils"
+        bin.install "scripts/studioutils.sh"
     end
 end
